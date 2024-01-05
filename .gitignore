@@ -1,0 +1,6 @@
+
+# Downloaded
+*.deb
+data.tar.*
+usr/*
+debian-*
